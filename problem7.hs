@@ -1,0 +1,1 @@
+data NestedList a = Elem a | list [NestedList a]
